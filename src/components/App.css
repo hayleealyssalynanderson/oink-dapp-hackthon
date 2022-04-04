@@ -1,0 +1,34 @@
+.App {
+    height: 100%;
+    text-align: center;
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  }
+  
+  .App-logo {
+    height: 40vmin;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #09d3ac;
+  }
+  
+  h5 { 
+    border-bottom:1px solid black;
+    width:100%;
+    float:left;
+    padding-bottom:3px;
+  }
+  p {
+    font-size: 13px;
+  }
